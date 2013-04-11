@@ -21,4 +21,4 @@ Aldo Iljazi
 
 [Download] [] , double click IntelGraphicsUpdater.sh and then click 'Run'.
 
-[Download]: https://github.com/1lj4z1/IntelGraphicsUpdater/archive/master.zip  (IntelGraphicsUpdater.sh)
+[Download]: https://github.com/1lj4z1/IntelGraphicsUpdater/archive/master.zip  (IntelGraphicsUpdater.zip)
