@@ -7,7 +7,7 @@ on Ubuntu/Ubuntu-based Linux distributions.
 
 ## Author
 
-Donald Iljazi
+Aldo Iljazi
 
 ## Date
 
