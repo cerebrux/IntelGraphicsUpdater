@@ -18,4 +18,7 @@ Aldo Iljazi
 0.1
 
 ## Usage
-In a Terminal run `sh ./IntelGraphicsUpdater.sh`
+
+[Download] [] , double click IntelGraphicsUpdater.sh and then click 'Run'.
+
+[Download]: https://github.com/1lj4z1/IntelGraphicsUpdater/archive/master.zip  (IntelGraphicsUpdater.sh)
