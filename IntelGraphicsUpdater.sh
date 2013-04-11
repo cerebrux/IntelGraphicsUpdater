@@ -1,15 +1,5 @@
 #!/bin/bash
 
-# -----------------------------------------------------------------------
-# Title:        IntelGraphicsUpdater
-# Description:  This script will install the latest Intel Graphics Driver
-#               on Ubuntu/Ubuntu-based Linux distributions.
-# Author:       Donald Iljazi
-# Date:         12 April 2013
-# Version:      0.1    
-# Usage:        sh ./IntelGraphicsUpdater.sh
-# -----------------------------------------------------------------------
-
 clear
 echo "This script runs on Ubuntu and Ubuntu-based installations only."
 sleep 3
