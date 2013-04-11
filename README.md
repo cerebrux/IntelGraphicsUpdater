@@ -15,7 +15,7 @@ Aldo Iljazi
 
 ## Version
 
-0.2
+v2
 
 ## Usage
 
