@@ -22,3 +22,7 @@ v2
 [Download] [] the script, unzip,  double click IntelGraphicsUpdater.sh and then click 'Run'.
 
 [Download]: https://github.com/1lj4z1/IntelGraphicsUpdater/archive/master.zip  (IntelGraphicsUpdater.zip)
+
+## License
+
+MIT: http://aldoiljazi.mit-license.org/
