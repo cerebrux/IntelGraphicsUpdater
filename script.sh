@@ -1,4 +1,17 @@
 #!/bin/bash
+#______________________________________________________________________________________________________
+#Name   : IntelGraphicsUpdater
+#Licence: ΜΙΤ (http://aldoiljazi.mit-license.org/)
+#Author : Aldo Iljazi
+#Email  : mail (at) com  
+#Date   : xx-xx-2013 (first release xx-xx-2013)
+#Version: x.x
+#System : Linux
+#WebSite: http://website.com
+#Source Code: Everything below comments is the sourcecode :)
+#Description:
+#        bla bla bla bla
+#______________________________________________________________________________________________________
 
 sleep 2
 if [ -f /etc/apt/sources.list.d/intellinuxgraphics.list ]
